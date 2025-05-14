@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 2010 ABB kiddie
+## Badminton Nerd
+
+
 <!--
 **BrickyIX/BrickyIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
