@@ -1,7 +1,4 @@
-## Hi there 👋
-
-## 2010 ABB kiddie
-## Badminton Nerd
+## Hi lol
 
 
 <!--
